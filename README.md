@@ -6,6 +6,9 @@ P2Pool Server Node software for Scrypt-N coins. Currently supported:
 
 Requirements:
 -------------------------
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/anarchyroot/myp2poolserver.svg)](https://greenkeeper.io/)
+
 Generic:
 * Coindaemon >=0.8.5
 * Python >=2.6
