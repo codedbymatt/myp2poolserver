@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "p2pool-scanner/package.json"
+      ]
+    }
+  }
+}
